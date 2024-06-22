@@ -1,3 +1,4 @@
+print("Welcome to SBI ATM")
 money = 1000
 total = 0
 card = input("Enter card: ")
@@ -18,4 +19,4 @@ for x in range(1, 4):
     else:
         print("Both card and password are wrong")
 
-print("Thank you for using")
+print("Thank you for using SBI ATM")
